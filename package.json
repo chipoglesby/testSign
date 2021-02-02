@@ -1,5 +1,5 @@
 {
-  "name": "testsign",
+  "name": "@chipoglesby/testsign",
   "version": "0.0.2",
   "description": "A test package for NPM",
   "main": "index.js",
